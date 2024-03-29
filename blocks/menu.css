@@ -2,6 +2,7 @@
   background-image: url(../images/background_menu.svg);
   background-color: #fff;
   background-size: cover;
+  background-position: center;
   padding: 100px 0;
 }
 
@@ -21,6 +22,7 @@
   text-align: center;
   max-width: 780px;
   margin: 0 auto 100px;
+  font-weight: normal;
 }
 
 .menu__cards {
