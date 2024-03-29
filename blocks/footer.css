@@ -43,11 +43,11 @@
 .footer__social-link {
   color: #fff;
   text-decoration: none;
+  transition: color 0.25s ease-in;
 }
 
 .footer__social-link:hover {
   color: #c1c1c1;
-  transition: color 0.25s ease-in;
 }
 
 .footer__copyright {
